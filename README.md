@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-- currently a student
-- knows PYTHON
-- have a basic knowledge of JAVA and C
+- Python Learner
 
 <!--
 **ankit-kumar-prajapati/ankit-kumar-prajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
