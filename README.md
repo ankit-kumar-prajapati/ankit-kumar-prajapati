@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Student :
+- CSE'28 @ BIT Sindri (Dhanbad, Jharkhand)
+- BS in Data Science and Application @ IIT Madras
+
+
+
 <!--
 **ankit-kumar-prajapati/ankit-kumar-prajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
